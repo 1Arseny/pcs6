@@ -1,0 +1,19 @@
+[
+    {
+        "name": "LTC", 
+        "imageUrl": "lib/assets/images/photo_2024-11-26_11-28-49.jpg", 
+        "description": "Лайткоин - подходить для комиссии"
+        ,"price": 100,
+        
+        "IsLiked": false
+      },
+      {  
+        "name": "Cordano", 
+        "imageUrl": "lib/assets/images/photo_2024-11-26_11-37-20.jpg", 
+        "description": "Токены ADA позволяют голосовать"
+        ,"price": 2,
+        
+        "IsLiked": false
+      }
+      
+]
